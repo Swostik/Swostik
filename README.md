@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swostik&label=Profile%20views&color=0e75b6&style=flat" alt="swostik" /> </p>
 
-- 🔭 I’m currently working on **React-Redux**
+- 🔭 I’m looking for work as a **Data Engineer / Data Analyst**
 
-- 🌱 I’m currently learning **Full-Stack at Integrify**
+- 🌱 I’m currently enrolled in **Professional Diploma in Data Analytics at Aalto University**
 
-- 🌱 I have AWS cloud practitioner certificate and I just completed a Machine learning course (6 months)
+- 🌱 I have 2 years working experience as a **Junior Data Engineer**
 
 - 👀 I’m interested in learning new things and polishing the old knowledge
 
